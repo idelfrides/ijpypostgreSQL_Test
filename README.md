@@ -18,6 +18,7 @@ If the ctivation done successfuly, you going to see something like this (venv_py
 If you see that on your Terminal, Congratulations. Good work. Go a head reading this page.
 Finally, enjoy the app and be happy.
 
+Find the API [here](https://github.com/idelfrides/ijpypostgresql_API/blob/master/README.md)
 
 -------------
 

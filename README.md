@@ -6,6 +6,8 @@ This is an app created to **TEST** the  API created to work with postgreSQL DB i
 It's a Python Package, an API available to be used as a library/package on Python projects that
 need to handle data from a postgreSQL DB. or material that might help some people.
 
+**API Name: ijpypostgreSQL**
+
 
 ### Activation of venv
 You need to activate the venv of project before you make any action on the app. So, do like this ...

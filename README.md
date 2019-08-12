@@ -2,7 +2,7 @@
 
 
 ### The Project
-This is an app created to **TEST** the  **ijpypostgresql** API created to work with postgreSQL DB in Python 3. 
+This is project was created to **TEST** the  **ijpypostgresql** API created to work with postgreSQL DB in Python 3. 
 
 
 **API Name: ijpypostgreSQL**

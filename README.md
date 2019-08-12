@@ -2,11 +2,13 @@
 
 
 ### The Project
-This is an app created to **TEST** the  API created to work with postgreSQL DB in Python 3. 
-It's a Python Package, an API available to be used as a library/package on Python projects that
-need to handle data from a postgreSQL DB. or material that might help some people.
+This is an app created to **TEST** the  **ijpypostgresql** API created to work with postgreSQL DB in Python 3. 
+
 
 **API Name: ijpypostgreSQL**
+ * It's a Python Package, an API available to be used as a library/package on Python projects that
+need to handle data from a postgreSQL DB. or material that might help some people.
+
 
 
 ### Activation of venv

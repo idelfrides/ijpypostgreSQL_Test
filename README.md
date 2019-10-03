@@ -2,25 +2,25 @@
 
 
 ### The Project
-This is project was created to **TEST** the  **ijpypostgresql** API created to work with postgreSQL DB in Python 3. 
+This is a project was created to **TEST** the  **ijpypostgresql**  created to work with postgreSQL DB in Python 3.x . 
 
 
-**API Name: ijpypostgreSQL**
- * It's a Python Package, an API available to be used as a library/package on Python projects that
+**Package Name: ijpypostgreSQL**
+ * It's a Python Package available to be used as a library on Python projects that
 need to handle data from a postgreSQL DB. or material that might help some people.
 
 
 
 ### Activation of venv
-You need to activate the venv of project before you make any action on the app. So, do like this ...
-* 1 : Navegate into folder **/venv_py_postgreSQL/Scripts**
-* 2 : write > **activate** 
+You need to create and activate your **venv** of project before you make any action on the app. So, to do that, follow the link below.
+
+Learn to use virtualenv [here](https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais) .
 
 If the ctivation done successfuly, you going to see something like this (venv_py_postgreSQL) path/to/folder.
 If you see that on your Terminal, Congratulations. Good work. Go a head reading this page.
 Finally, enjoy the app and be happy.
 
-Find the API [here](https://github.com/idelfrides/ijpypostgresql_API/blob/master/README.md)
+Find the PACKAGE [here](https://github.com/idelfrides/ijpypostgresql/blob/master/README.md)
 
 -------------
 

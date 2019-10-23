@@ -2,7 +2,7 @@
 
 
 ### The Project
-This is a project was created to **TEST** the  **ijpypostgresql**  created to work with postgreSQL DB in Python 3.x . 
+This project was created to **TEST** the  **ijpypostgresql**  created to work with postgreSQL DB in Python 3.x . 
 
 
 **Package Name: ijpypostgreSQL**

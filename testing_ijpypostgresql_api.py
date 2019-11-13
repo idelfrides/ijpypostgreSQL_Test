@@ -3,17 +3,17 @@
 # ---------------------------------------
 # importing modules
 # ---------------------------------------
-from ijpypostgresql import Crud_oper as crud
-from ijpypostgresql import ModulePostgreSQLdb as pgdb
-from ijpypostgresql import HandleDataFromTerminal as dt
+from ijpypostgresql import Crud_oper
+from ijpypostgresql import ModulePostgreSQLdb
+from ijpypostgresql import HandleDataFromTerminal
 
 
 # the main method of testing app
 def test_ijpostgresql_api():
 
-    pgdbo = pgdb.ModulePostgreSQLdb()
-    crud_op = crud.Crud_oper()
-    dto = dt.HandleDataFromTerminal()
+    pgdbo = ModulePostgreSQLdb()
+    crud_op = Crud_oper()
+    dto = HandleDataFromTerminal()
 
     # con, cur = pgdbo.connectbyconfigfile()
 
